@@ -14,7 +14,7 @@ export const SAMPLE_POSTS = [
     id: 2,
     title: 'Sailing through the Greek Islands',
     content: 'Exploring the glorious Greek Islands by sailboat is the only way to see them. Wake up anchored in a quiet cove, swim to shore for coffee, sail to the next island by noon. No schedule, no crowds, just wind and water.',
-    image_url: 'https://images.goway.com/production/featured_images/Small-Village-of-Oia-at-sunset%2C-located-on-Greek-island-of-Santorini%2C-Greece%20_iStock-1324871336.jpg?VersionId=yS6OjXeGH.TCQdeHd7e6H2v6M3YDI8b1',
+    image_url: 'https://images.unsplash.com/photo-1539020140153-e479b8f22986?w=800&q=80',
     location: 'Greece',
     category: 'Adventure',
     author_id: 'Traveler_2039',
@@ -62,7 +62,7 @@ export const SAMPLE_POSTS = [
     title: 'Lost in the Medina of Marrakech',
     content:
       'Getting lost is the entire point. Turn off your phone, pocket the map, and just walk. Around every corner: a riot of color, the smell of spices, the sound of hammers on copper. Let someone\'s grandmother sell you mint tea and sit with her for an hour.',
-    image_url: 'https://images.unsplash.com/photo-1539020140153-e479b8f22986?w=800&q=80',
+      image_url: 'https://i0.wp.com/www.worldwanderista.com/wp-content/uploads/2019/05/Marrakech-travel-guide.jpg?ssl=1',
     location: 'Marrakech, Morocco',
     category: 'Culture',
     author_id: 'Traveler_5544',
