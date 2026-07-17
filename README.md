@@ -4,7 +4,7 @@ Submitted by: **Zainab Akhtar**
 
 This web app: **Roamly is a travel forum where users can share their travel stories, discover hidden gems, and connect with explorers around the globe. Users can create posts with images and stories, upvote their favorite posts, leave comments, and filter by category or sort by popularity.**
 
-Time spent: **17** hours spent in total
+Time spent: **22** hours spent in total
 
 ## Required Features
 
